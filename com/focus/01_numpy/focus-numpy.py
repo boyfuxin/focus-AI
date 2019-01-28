@@ -28,7 +28,6 @@ def lesson02_02():
     print(matrix.dtype)
     print(v3.shape)
     print(v3.dtype)
-    pass
     
 if __name__ == '__main__':
     lesson02_01()
