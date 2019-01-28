@@ -10,7 +10,7 @@ def lesson02_01():
 
 def lesson02_02():
     vector=np.array([5,10,15,20])
-    matrix=np.array([[1,2,3],[4,5,6],[7,8,0]])
+    matrix=np.array([[1,2,3,4],[4,5,6,4],[7,8,0,4]])
     v3=np.array(
         [
             [
